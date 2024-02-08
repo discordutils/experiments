@@ -4,7 +4,7 @@
  * @author discordutils
  * @version 1-stable
  * @source https://github.com/discordutils/experiments
- * @updateUrl https://github.com/discordutils/experiments.js
+ * @updateUrl https://github.com/discordutils/experiments/blob/main/experiments.js
  */
 
 const storeExports = BdApi.findModule(m => Reflect.has(m?.default, "isDeveloper"));
