@@ -12,7 +12,7 @@ const original = storeExports.default;
 
 
 module.exports = class {
-	getName(){ return "Experiments"; }
+	getName(){ return "DiscordUtils Experiments"; }
 
 	start() {
     storeExports.default = new Proxy(original, {
