@@ -3,7 +3,7 @@
  * @description Enables the experiments in Discord Settings.
  * @author discordutils
  * @version 1-stable
- * @source https://github.com/discordutils/experiments
+ * @source https://github.com/discordutils/
  * @updateUrl https://raw.githubusercontent.com/discordutils/experiments/main/experiments.js
  */
 
